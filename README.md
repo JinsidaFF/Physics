@@ -1,6 +1,6 @@
 # 物理加分作业_持续更新
 @JinsidaXX 
-## 1、李萨如图
-## 2、拍及其包络线
-## 3、形波动态图
-## 4、驻波动态图
+## 1、[李萨如图](https://github.com/JinsidaFF/Physics/blob/main/%E6%9D%8E%E8%90%A8%E5%A6%82%E5%9B%BE.py)
+## 2、[拍及其包络线](https://github.com/JinsidaFF/Physics/blob/main/%E6%8B%8D%E5%8F%8A%E5%8C%85%E7%BB%9C%E7%BA%BF.py)
+## 3、[行波动态图](https://github.com/JinsidaFF/Physics/blob/main/%E8%A1%8C%E6%B3%A2.py)
+## 4、[驻波动态图](https://github.com/JinsidaFF/Physics/blob/main/%E9%A9%BB%E6%B3%A2.py)
