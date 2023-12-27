@@ -8,3 +8,4 @@
 ## 2、[拍及其包络线](https://github.com/JinsidaFF/Physics/blob/main/%E6%8B%8D%E5%8F%8A%E5%8C%85%E7%BB%9C%E7%BA%BF.py)
 ## 3、[行波动态图](https://github.com/JinsidaFF/Physics/blob/main/%E8%A1%8C%E6%B3%A2.py)
 ## 4、[驻波动态图](https://github.com/JinsidaFF/Physics/blob/main/%E9%A9%BB%E6%B3%A2.py)
+## 5、[量子云图](https://github.com/JinsidaFF/Physics/blob/main/%E9%87%8F%E5%AD%90%E4%BA%91.py)
