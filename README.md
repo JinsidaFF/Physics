@@ -9,3 +9,4 @@
 ## 3、[行波动态图](https://github.com/JinsidaFF/Physics/blob/main/%E8%A1%8C%E6%B3%A2.py)
 ## 4、[驻波动态图](https://github.com/JinsidaFF/Physics/blob/main/%E9%A9%BB%E6%B3%A2.py)
 ## 5、[量子云图](https://github.com/JinsidaFF/Physics/blob/main/%E9%87%8F%E5%AD%90%E4%BA%91.py)
+## 6、[杨氏双缝](https://github.com/JinsidaFF/Physics/blob/main/%E6%9D%A8%E6%B0%8F%E5%8F%8C%E7%BC%9D.py)
